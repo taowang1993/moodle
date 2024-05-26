@@ -1,3 +1,4 @@
+
 /* search form */
 .searchform-navbar {
     display: flex !important;
@@ -15,14 +16,12 @@
     border-radius: 30px;
     overflow: hidden;
     border: 1px solid #ddd;
-    background-color: #fff;
 }
 
 .searchform-navbar .form-control {
     border: none;
     box-shadow: none;
     flex-grow: 1;
-    border-radius: 20px 0 0 20px;
     padding: 10px 15px;
     font-size: 16px;
     color: #333;
@@ -63,3 +62,4 @@
 .searchform-navbar .btn-close {
     display: none;
 }
+
